@@ -1,0 +1,12 @@
+tr
+{
+ background-color:#FF0000;
+}
+
+table
+{
+ border-collapse:separate;
+ border:groove 5px;
+ border-color:#000000;
+ width:55%;
+}
